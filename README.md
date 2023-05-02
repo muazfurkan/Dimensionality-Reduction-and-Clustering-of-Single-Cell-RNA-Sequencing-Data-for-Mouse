@@ -25,18 +25,17 @@ visualized in both 2D and 3D.
 
 ### PCA
 
-<img style="margin:15px;" height="380" src="results/PCA_0.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_02.png" width="380"/><br>
+<img style="margin:8px;" height="352" src="results/PCA_0.png" width="446"/><img style="margin:8px;" height="352" src="results/PCA_02.png" width="446"/><br>
 
-<img style="margin:15px;" height="380" src="results/PCA_1.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_12.png" width="380"/><br>
+<img style="margin:8px;" height="348" src="results/PCA_1.png" width="444"/><img style="margin:8px;" height="348" src="results/PCA_12.png" width="446"/><br>
 
-<img style="margin:15px;" height="380" src="results/PCA_2.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_22.png" width="380"/><br>
-
+<img style="margin:8px;" height="343" src="results/PCA_2.png" width="445"/><img style="margin:8px;" height="343" src="results/PCA_22.png" width="446"/><br>
 
 
 ### SVD
 
-<img style="margin:15px;" height="380" src="results/SVD_0.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_02.png" width="380"/><br>
+<img style="margin:8px;" height="346" src="results/SVD_0.png" width="449"/><img style="margin:8px;" height="349" src="results/SVD_02.png" width="446"/><br>
 
-<img style="margin:15px;" height="380" src="results/SVD_1.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_12.png" width="380"/><br>
+<img style="margin:8px;" height="345" src="results/SVD_1.png" width="449"/><img style="margin:8px;" height="345" src="results/SVD_12.png" width="446"/><br>
 
-<img style="margin:15px;" height="380" src="results/SVD_2.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_22.png" width="380"/><br>
+<img style="margin:8px;" height="347" src="results/SVD_2.png" width="449"/><img style="margin:8px;" height="347" src="results/SVD_22.png" width="446"/><br>
