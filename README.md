@@ -22,9 +22,9 @@ The dataset used was reduced to 3 (PCA-0, SVD-0), 5 (PCA-1, SVD-1), and 10 (PCA-
 features, and clustering was performed separately on each reduced dataset. The results were 
 visualized in both 2D and 3D.
 
-<img style="margin:8px;" height="380" src="results/PCA_0.png" width="380"/><img style="margin:8px;" height="380" src="results/PCA_02.png" width="380"/><br>
-<img style="margin:8px;" height="380" src="results/PCA_1.png" width="380"/><img style="margin:8px;" height="380" src="results/PCA_12.png" width="380"/><br>
-<img style="margin:8px;" height="380" src="results/PCA_2.png" width="380"/><img style="margin:8px;" height="380" src="results/PCA_22.png" width="380"/><br>
-<img style="margin:8px;" height="380" src="results/SVD_0.png" width="380"/><img style="margin:8px;" height="380" src="results/SVD_02.png" width="380"/><br>
-<img style="margin:8px;" height="380" src="results/SVD_1.png" width="380"/><img style="margin:8px;" height="380" src="results/SVD_12.png" width="380"/><br>
-<img style="margin:8px;" height="380" src="results/SVD_2.png" width="380"/><img style="margin:8px;" height="380" src="results/SVD_22.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/PCA_0.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_02.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/PCA_1.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_12.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/PCA_2.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_22.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/SVD_0.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_02.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/SVD_1.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_12.png" width="380"/><br>
+<img style="margin:15px;" height="380" src="results/SVD_2.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_22.png" width="380"/><br>
