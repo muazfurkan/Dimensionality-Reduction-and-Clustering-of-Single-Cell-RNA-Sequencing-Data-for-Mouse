@@ -34,7 +34,7 @@ visualized in both 2D and 3D.
 
 ### SVD
 
-<img style="margin:8px;" height="346" src="results/SVD_0.png" width="449"/><img style="margin:8px;" height="349" src="results/SVD_02.png" width="446"/><br>
+<img style="margin:8px;" height="346" src="results/SVD_0.png" width="449"/><img style="margin:8px;" height="346" src="results/SVD_02.png" width="446"/><br>
 
 <img style="margin:8px;" height="345" src="results/SVD_1.png" width="449"/><img style="margin:8px;" height="345" src="results/SVD_12.png" width="446"/><br>
 
