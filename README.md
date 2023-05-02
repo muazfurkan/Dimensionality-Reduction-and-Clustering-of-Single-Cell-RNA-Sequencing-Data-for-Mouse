@@ -22,6 +22,7 @@ The dataset used was reduced to 3 (PCA-0, SVD-0), 5 (PCA-1, SVD-1), and 10 (PCA-
 features, and clustering was performed separately on each reduced dataset. The results were 
 visualized in both 2D and 3D.
 
+
 ### PCA
 
 <img style="margin:15px;" height="380" src="results/PCA_0.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_02.png" width="380"/><br>
