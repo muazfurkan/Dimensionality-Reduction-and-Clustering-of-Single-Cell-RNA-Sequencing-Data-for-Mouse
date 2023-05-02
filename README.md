@@ -31,6 +31,7 @@ visualized in both 2D and 3D.
 <img style="margin:15px;" height="380" src="results/PCA_2.png" width="380"/><img style="margin:15px;" height="380" src="results/PCA_22.png" width="380"/><br>
 
 
+
 ### SVD
 
 <img style="margin:15px;" height="380" src="results/SVD_0.png" width="380"/><img style="margin:15px;" height="380" src="results/SVD_02.png" width="380"/><br>
