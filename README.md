@@ -25,7 +25,7 @@ visualized in both 2D and 3D.
 
 ### PCA
 
-<img style="margin:8px;" height="352" src="results/PCA_0.png" width="400"/><img style="margin:8px;" height="352" src="results/PCA_02.png" width="400"/><br>
+<img style="margin:8px;" height="352" src="results/PCA_0.png" width="420"/><img style="margin:8px;" height="352" src="results/PCA_02.png" width="400"/><br>
 
 <img style="margin:8px;" height="348" src="results/PCA_1.png" width="444"/><img style="margin:8px;" height="348" src="results/PCA_12.png" width="400"/><br>
 
